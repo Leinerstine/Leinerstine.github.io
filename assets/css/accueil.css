@@ -41,8 +41,8 @@ li {
     text-align: center;
 
     background: linear-gradient(to bottom, #ff9800 0%, #ff9800 100%);
-	background-position: 0 100%;
-	background-repeat: repeat-x;
+    background-position: 0 100%;
+    background-repeat: repeat-x;
     background-size: auto 2px;
 
     width: 10vw;
